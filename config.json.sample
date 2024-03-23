@@ -1,0 +1,14 @@
+{
+  "influxdb": {
+    "host": "https://influxdb.example.com",
+    "port": 8086,
+    "token": "your_token_here",
+    "org": "my_org",
+    "bucket": "some_bucket"
+  },
+  "wifi": {
+    "ssid": "foo",
+    "key": "bar"
+  },
+  "reading_wait_time": 60 
+}
